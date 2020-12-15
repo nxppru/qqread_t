@@ -1,0 +1,14 @@
+comment: "您提交的issue未按照模板填写，已自动关闭，请按照issue模板重新提交。"
+issueConfigs:
+- content:
+# Example 1: bug report
+  - "关于你要提交的问题"
+  - "是否搜索了issue"
+  - "是否仔细阅读了教程"
+  - "你使用的哪种运行方案"
+  - "详细叙述"
+  - "具体问题"
+  - "详细日志"
+
+exception:
+  - "Water008"
