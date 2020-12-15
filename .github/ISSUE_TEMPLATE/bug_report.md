@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: 请严格按照模板提交issue，否则会自动关闭
 title: "[BUG]"
 labels: ''
 assignees: ''
